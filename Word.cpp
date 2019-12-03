@@ -3,6 +3,8 @@
 
 namespace Prog3_1 {
 
+	asasasasasa
+
 	Word::Word(const Word &w) : kol(w.kol), SZ(w.SZ) // копирующий конструктор
 	{
 		mass = new char *[SZ];  
